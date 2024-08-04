@@ -1,0 +1,15 @@
+.text {
+  text-align: center;
+  font-size: 24px;
+  color: rgb(187, 98, 255);
+}
+
+.noCast {
+  font-size: 32px;
+  color: rgb(187, 98, 255);
+}
+
+.error {
+  color: rgb(187, 98, 255);
+  font-size: 24px;
+}
